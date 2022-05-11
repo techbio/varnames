@@ -38,7 +38,7 @@ analyze and report as above for PHP
 
 [varnames_word_parts_counts.txt](./varnames_word_parts_counts.txt) - word parts with corpus frequency
 
-PoC corpus is from a number of URL shortener repos from GitHub (~700, but only a fraction of them in PHP,approximately 5000 PHP files)
+PoC corpus is from a number of URL shortener repos from GitHub (~700, but only a fraction of them in PHP, approximately 5000 PHP files)
 
 
 ## Beyond
@@ -46,3 +46,4 @@ PoC corpus is from a number of URL shortener repos from GitHub (~700, but only a
 6. vote for good/bad names
 7. rate repo on naming readability and descriptive precision
 1. charge $2 to navigate further into pre-analyzed codebases or ~$2/100Kb to request analysis for a repo
+4. extend beyond PHP with existing static analyais tools/abstract syntax tree
